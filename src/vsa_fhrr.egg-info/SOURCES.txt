@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/algebra.py
+src/encoders.py
+src/vsa_fhrr.egg-info/PKG-INFO
+src/vsa_fhrr.egg-info/SOURCES.txt
+src/vsa_fhrr.egg-info/dependency_links.txt
+src/vsa_fhrr.egg-info/requires.txt
+src/vsa_fhrr.egg-info/top_level.txt
