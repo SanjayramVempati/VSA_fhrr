@@ -106,7 +106,7 @@ class FHRR:
         Raises the FHRR vector `base` to the float `x` using element-wise exponentiation.
         """
         return cp.power(base, x)
-    
+#...
 
     
 
