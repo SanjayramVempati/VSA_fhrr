@@ -4,8 +4,8 @@ import numpy as np
 import cupy as cp
 import time
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from src.algebra import FHRR
+from vsa_fhrr.algebra import FHRR 
+
 
 fhrr = FHRR(dim=10000)
 

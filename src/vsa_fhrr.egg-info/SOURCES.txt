@@ -1,8 +1,8 @@
 README.md
 pyproject.toml
-src/__init__.py
-src/algebra.py
-src/encoders.py
+src/vsa_fhrr/__init__.py
+src/vsa_fhrr/algebra.py
+src/vsa_fhrr/encoders.py
 src/vsa_fhrr.egg-info/PKG-INFO
 src/vsa_fhrr.egg-info/SOURCES.txt
 src/vsa_fhrr.egg-info/dependency_links.txt
